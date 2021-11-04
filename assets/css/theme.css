@@ -8480,7 +8480,7 @@ header {
 	top: 0;
 	left: 0;
 	width: 100%;
-	z-index: 20;
+	z-index: 50;
 	padding: 20px 0;
 	background: 0 0;
 	transition: opacity .3s ease
@@ -11832,5 +11832,3 @@ opacity: 1;
 	filter: grayscale(0);
 	
 }
-
-/*# sourceMappingURL=/s/files/1/0423/1856/1441/t/9/assets/theme.css.map?v=17699020094341822211 */
