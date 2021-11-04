@@ -7125,7 +7125,7 @@ body.will-load.will-load-2 .site-nav-toggle {
 .text,
 .video,
 .wysiwyg-content {
-	opacity: 0
+	opacity: 1
 }
 
 .hero-headline {
